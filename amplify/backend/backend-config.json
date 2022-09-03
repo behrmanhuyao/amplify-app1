@@ -65,9 +65,5 @@
       "lastPushTimeStamp": "2022-09-03T17:12:24.609Z"
     }
   },
-  "storage": {
-    "imagestorage": {
-      "dependsOn": []
-    }
-  }
+  "storage": {}
 }
